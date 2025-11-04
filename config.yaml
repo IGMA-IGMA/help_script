@@ -1,0 +1,4 @@
+# Настройки для Help Script Tools
+project_root: .
+scripts_folder: scripts
+templates_folder: templates
